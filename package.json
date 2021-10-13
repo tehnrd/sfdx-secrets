@@ -75,7 +75,10 @@
     },
     "devPlugins": [
       "@oclif/plugin-help"
-    ]
+    ],
+    "hooks": {
+      "predeploy": "./lib/hooks/predeploy/replaceSecrets"
+    }
   },
   "repository": "tehnrd/sfdx-secrets",
   "scripts": {
