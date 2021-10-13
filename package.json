@@ -2,7 +2,7 @@
   "name": "sfdx-secrets",
   "version": "1.0.0",
   "author": "Jason Venable",
-  "bugs": "https://github.com/Projects/sfdx-secrets/issues",
+  "bugs": "https://github.com/tehnrd/sfdx-secrets/issues",
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
@@ -60,7 +60,7 @@
     "/npm-shrinkwrap.json",
     "/oclif.manifest.json"
   ],
-  "homepage": "https://github.com/Projects/sfdx-secrets",
+  "homepage": "https://github.com/tehnrd/sfdx-secrets",
   "keywords": [
     "sfdx-plugin"
   ],
