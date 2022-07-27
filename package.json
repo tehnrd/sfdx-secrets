@@ -1,8 +1,9 @@
 {
   "name": "sfdx-secrets",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Jason Venable",
   "bugs": "https://github.com/tehnrd/sfdx-secrets/issues",
+  "description": "An SFDX plugin to replace secrets in CustomMetadata before deploy.",
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
